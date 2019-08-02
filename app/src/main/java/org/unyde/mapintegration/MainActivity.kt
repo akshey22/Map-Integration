@@ -10,6 +10,6 @@ class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        MapIntgrationMain.s(this,"101")
+       // MapIntgrationMain.s(this,"101")
     }
 }
